@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "LOG-0072",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.59.52.148",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-23T09:31:33.000Z"
+  },
+  {
+    "id": "LOG-0024",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.74.150.101",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-23T08:56:22.000Z"
+  },
+  {
+    "id": "LOG-0035",
+    "userId": "USR-0014",
+    "email": "karan.malhotra7@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.47.143.117",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-23T07:09:31.000Z"
+  },
+  {
+    "id": "LOG-0055",
+    "userId": "USR-0018",
+    "email": "meera.gupta11@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.57.225.108",
+    "device": "Windows PC",
+    "createdAt": "2026-09-22T21:25:42.000Z"
+  },
+  {
+    "id": "LOG-0041",
+    "userId": "USR-0015",
+    "email": "divya.mehta8@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.240.247.1",
+    "device": "Windows PC",
+    "createdAt": "2026-09-22T17:09:15.000Z"
+  },
+  {
+    "id": "LOG-0040",
+    "userId": "USR-0015",
+    "email": "divya.mehta8@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.216.69.82",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-22T15:53:03.000Z"
+  },
+  {
+    "id": "LOG-0016",
+    "userId": "USR-0010",
+    "email": "vikram.nair3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.10.186.50",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-22T10:02:51.000Z"
+  },
+  {
+    "id": "LOG-0070",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.141.126.242",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-21T21:47:33.000Z"
+  },
+  {
+    "id": "LOG-0038",
+    "userId": "USR-0014",
+    "email": "karan.malhotra7@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.33.198.129",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-21T20:31:01.000Z"
+  },
+  {
+    "id": "LOG-0120",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.223.188.171",
+    "device": "Web browser",
+    "createdAt": "2026-09-21T16:50:35.000Z"
+  },
+  {
+    "id": "LOG-0102",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.3.11.231",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-21T15:59:40.000Z"
+  },
+  {
+    "id": "LOG-0057",
+    "userId": "USR-0018",
+    "email": "meera.gupta11@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.196.77.168",
+    "device": "Windows PC",
+    "createdAt": "2026-09-20T11:08:12.000Z"
+  },
+  {
+    "id": "LOG-0012",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.86.247.117",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-20T07:57:53.000Z"
+  },
+  {
+    "id": "LOG-0045",
+    "userId": "USR-0016",
+    "email": "rohan.iyer9@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.194.176.162",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-20T07:09:14.000Z"
+  },
+  {
+    "id": "LOG-0007",
+    "userId": "USR-0008",
+    "email": "priya.iyer1@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.134.184.169",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-19T15:08:01.000Z"
+  },
+  {
+    "id": "LOG-0096",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.57.199.215",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-19T12:27:24.000Z"
+  },
+  {
+    "id": "LOG-0003",
+    "userId": "USR-0007",
+    "email": "customer@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.228.92.22",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-19T09:54:13.000Z"
+  },
+  {
+    "id": "LOG-0097",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.254.86.24",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-19T08:50:48.000Z"
+  },
+  {
+    "id": "LOG-0032",
+    "userId": "USR-0013",
+    "email": "sanya.kapoor6@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.156.213.77",
+    "device": "Windows PC",
+    "createdAt": "2026-09-18T21:48:57.000Z"
+  },
+  {
+    "id": "LOG-0065",
+    "userId": "USR-0021",
+    "email": "siddharth.malhotra14@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.158.140.109",
+    "device": "Windows PC",
+    "createdAt": "2026-09-18T17:53:40.000Z"
+  },
+  {
+    "id": "LOG-0079",
+    "userId": "USR-0023",
+    "email": "aryan.rao16@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.22.130.133",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-18T15:02:19.000Z"
+  },
+  {
+    "id": "LOG-0104",
+    "userId": "USR-0002",
+    "email": "analyst@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.155.218.249",
+    "device": "Web browser",
+    "createdAt": "2026-09-17T15:49:46.000Z"
+  },
+  {
+    "id": "LOG-0046",
+    "userId": "USR-0016",
+    "email": "rohan.iyer9@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.110.63.239",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-17T15:03:46.000Z"
+  },
+  {
+    "id": "LOG-0049",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.22.205.21",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-17T14:42:52.000Z"
+  },
+  {
+    "id": "LOG-0036",
+    "userId": "USR-0014",
+    "email": "karan.malhotra7@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.130.101.76",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-17T09:35:20.000Z"
+  },
+  {
+    "id": "LOG-0110",
+    "userId": "USR-0004",
+    "email": "analyst3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.56.241.18",
+    "device": "Web browser",
+    "createdAt": "2026-09-17T09:10:39.000Z"
+  },
+  {
+    "id": "LOG-0105",
+    "userId": "USR-0002",
+    "email": "analyst@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.103.154.108",
+    "device": "Web browser",
+    "createdAt": "2026-09-17T08:06:24.000Z"
+  },
+  {
+    "id": "LOG-0126",
+    "userId": "USR-0001",
+    "email": "admin@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.96.33.164",
+    "device": "Web browser",
+    "createdAt": "2026-09-17T07:47:05.000Z"
+  },
+  {
+    "id": "LOG-0093",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.131.203.58",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-17T07:43:05.000Z"
+  },
+  {
+    "id": "LOG-0085",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.5.251.76",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-17T07:02:53.000Z"
+  },
+  {
+    "id": "LOG-0053",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.111.11.65",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-16T21:23:55.000Z"
+  },
+  {
+    "id": "LOG-0076",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.101.218.146",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-16T19:18:25.000Z"
+  },
+  {
+    "id": "LOG-0067",
+    "userId": "USR-0021",
+    "email": "siddharth.malhotra14@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.42.108.182",
+    "device": "Windows PC",
+    "createdAt": "2026-09-16T15:07:51.000Z"
+  },
+  {
+    "id": "LOG-0033",
+    "userId": "USR-0013",
+    "email": "sanya.kapoor6@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.137.155.142",
+    "device": "Windows PC",
+    "createdAt": "2026-09-16T12:57:30.000Z"
+  },
+  {
+    "id": "LOG-0047",
+    "userId": "USR-0016",
+    "email": "rohan.iyer9@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.240.152.177",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-16T10:55:13.000Z"
+  },
+  {
+    "id": "LOG-0015",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.20.178.231",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-15T19:33:17.000Z"
+  },
+  {
+    "id": "LOG-0010",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.22.234.44",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-15T11:31:16.000Z"
+  },
+  {
+    "id": "LOG-0086",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.250.85.44",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-15T10:21:41.000Z"
+  },
+  {
+    "id": "LOG-0095",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.117.235.181",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-14T15:24:52.000Z"
+  },
+  {
+    "id": "LOG-0037",
+    "userId": "USR-0014",
+    "email": "karan.malhotra7@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.109.31.8",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-13T13:10:52.000Z"
+  },
+  {
+    "id": "LOG-0031",
+    "userId": "USR-0013",
+    "email": "sanya.kapoor6@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.153.98.64",
+    "device": "Windows PC",
+    "createdAt": "2026-09-13T12:23:08.000Z"
+  },
+  {
+    "id": "LOG-0069",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.19.93.182",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-13T10:46:49.000Z"
+  },
+  {
+    "id": "LOG-0066",
+    "userId": "USR-0021",
+    "email": "siddharth.malhotra14@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.171.223.200",
+    "device": "Windows PC",
+    "createdAt": "2026-09-13T09:52:49.000Z"
+  },
+  {
+    "id": "LOG-0106",
+    "userId": "USR-0002",
+    "email": "analyst@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.42.52.241",
+    "device": "Web browser",
+    "createdAt": "2026-09-12T17:01:37.000Z"
+  },
+  {
+    "id": "LOG-0044",
+    "userId": "USR-0016",
+    "email": "rohan.iyer9@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.27.245.101",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-11T21:11:16.000Z"
+  },
+  {
+    "id": "LOG-0029",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.232.85.177",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-11T19:17:55.000Z"
+  },
+  {
+    "id": "LOG-0101",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.102.32.85",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-11T18:06:23.000Z"
+  },
+  {
+    "id": "LOG-0008",
+    "userId": "USR-0008",
+    "email": "priya.iyer1@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.123.204.16",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-10T21:07:24.000Z"
+  },
+  {
+    "id": "LOG-0059",
+    "userId": "USR-0019",
+    "email": "aditya.nair12@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.30.14.33",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-09T21:18:43.000Z"
+  },
+  {
+    "id": "LOG-0099",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.244.180.156",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-09T20:35:42.000Z"
+  },
+  {
+    "id": "LOG-0001",
+    "userId": "USR-0007",
+    "email": "customer@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.168.38.153",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-09T20:34:24.000Z"
+  },
+  {
+    "id": "LOG-0114",
+    "userId": "USR-0005",
+    "email": "analyst4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.45.97.191",
+    "device": "Web browser",
+    "createdAt": "2026-09-09T19:40:24.000Z"
+  },
+  {
+    "id": "LOG-0078",
+    "userId": "USR-0023",
+    "email": "aryan.rao16@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.104.28.254",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-09T17:17:39.000Z"
+  },
+  {
+    "id": "LOG-0112",
+    "userId": "USR-0004",
+    "email": "analyst3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.121.211.77",
+    "device": "Web browser",
+    "createdAt": "2026-09-09T08:31:52.000Z"
+  },
+  {
+    "id": "LOG-0013",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.182.171.89",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-08T18:07:33.000Z"
+  },
+  {
+    "id": "LOG-0042",
+    "userId": "USR-0015",
+    "email": "divya.mehta8@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.175.146.131",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-08T16:07:14.000Z"
+  },
+  {
+    "id": "LOG-0028",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.127.202.231",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-08T09:03:43.000Z"
+  },
+  {
+    "id": "LOG-0116",
+    "userId": "USR-0005",
+    "email": "analyst4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.148.77.89",
+    "device": "Web browser",
+    "createdAt": "2026-09-07T22:08:32.000Z"
+  },
+  {
+    "id": "LOG-0115",
+    "userId": "USR-0005",
+    "email": "analyst4@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.199.107.105",
+    "device": "Web browser",
+    "createdAt": "2026-09-07T18:35:54.000Z"
+  },
+  {
+    "id": "LOG-0075",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.251.9.125",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-07T16:30:16.000Z"
+  },
+  {
+    "id": "LOG-0098",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.151.231.201",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-07T15:46:58.000Z"
+  },
+  {
+    "id": "LOG-0020",
+    "userId": "USR-0011",
+    "email": "neha.sharma4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.132.205.68",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-07T12:42:56.000Z"
+  },
+  {
+    "id": "LOG-0090",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.236.92.25",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-07T12:24:34.000Z"
+  },
+  {
+    "id": "LOG-0023",
+    "userId": "USR-0011",
+    "email": "neha.sharma4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.249.48.14",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-07T10:56:32.000Z"
+  },
+  {
+    "id": "LOG-0054",
+    "userId": "USR-0018",
+    "email": "meera.gupta11@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.202.145.66",
+    "device": "Windows PC",
+    "createdAt": "2026-09-07T08:35:58.000Z"
+  },
+  {
+    "id": "LOG-0087",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.136.144.123",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-06T13:50:20.000Z"
+  },
+  {
+    "id": "LOG-0009",
+    "userId": "USR-0008",
+    "email": "priya.iyer1@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.251.116.66",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-06T13:11:22.000Z"
+  },
+  {
+    "id": "LOG-0027",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.71.176.100",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-06T12:00:02.000Z"
+  },
+  {
+    "id": "LOG-0118",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.2.79.67",
+    "device": "Web browser",
+    "createdAt": "2026-09-05T15:41:19.000Z"
+  },
+  {
+    "id": "LOG-0113",
+    "userId": "USR-0005",
+    "email": "analyst4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.161.153.37",
+    "device": "Web browser",
+    "createdAt": "2026-09-05T14:53:28.000Z"
+  },
+  {
+    "id": "LOG-0089",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.91.16.5",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-05T10:38:35.000Z"
+  },
+  {
+    "id": "LOG-0050",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.193.136.242",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-04T21:02:53.000Z"
+  },
+  {
+    "id": "LOG-0048",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.77.7.96",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-04T20:33:38.000Z"
+  },
+  {
+    "id": "LOG-0002",
+    "userId": "USR-0007",
+    "email": "customer@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.102.39.62",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-04T15:28:28.000Z"
+  },
+  {
+    "id": "LOG-0100",
+    "userId": "USR-0026",
+    "email": "tanya.singh19@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.246.174.18",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-04T13:33:35.000Z"
+  },
+  {
+    "id": "LOG-0061",
+    "userId": "USR-0019",
+    "email": "aditya.nair12@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.222.26.159",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-04T07:00:15.000Z"
+  },
+  {
+    "id": "LOG-0094",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.9.141.230",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-03T19:47:31.000Z"
+  },
+  {
+    "id": "LOG-0074",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.113.208.208",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-03T17:48:30.000Z"
+  },
+  {
+    "id": "LOG-0060",
+    "userId": "USR-0019",
+    "email": "aditya.nair12@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.171.29.90",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-03T12:09:14.000Z"
+  },
+  {
+    "id": "LOG-0080",
+    "userId": "USR-0023",
+    "email": "aryan.rao16@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.217.25.43",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-03T10:12:26.000Z"
+  },
+  {
+    "id": "LOG-0073",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.4.70.179",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-03T07:49:50.000Z"
+  },
+  {
+    "id": "LOG-0077",
+    "userId": "USR-0023",
+    "email": "aryan.rao16@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.203.140.108",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-03T07:24:15.000Z"
+  },
+  {
+    "id": "LOG-0005",
+    "userId": "USR-0008",
+    "email": "priya.iyer1@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.196.10.161",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-02T16:28:08.000Z"
+  },
+  {
+    "id": "LOG-0011",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.213.34.92",
+    "device": "MacBook Pro",
+    "createdAt": "2026-09-02T14:33:43.000Z"
+  },
+  {
+    "id": "LOG-0062",
+    "userId": "USR-0020",
+    "email": "kavya.patel13@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.51.129.82",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-02T13:14:49.000Z"
+  },
+  {
+    "id": "LOG-0039",
+    "userId": "USR-0014",
+    "email": "karan.malhotra7@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.244.221.156",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-01T21:06:35.000Z"
+  },
+  {
+    "id": "LOG-0026",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.11.108.71",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-01T20:40:52.000Z"
+  },
+  {
+    "id": "LOG-0043",
+    "userId": "USR-0015",
+    "email": "divya.mehta8@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.0.196.177",
+    "device": "Windows PC",
+    "createdAt": "2026-09-01T20:23:57.000Z"
+  },
+  {
+    "id": "LOG-0056",
+    "userId": "USR-0018",
+    "email": "meera.gupta11@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.96.26.7",
+    "device": "Windows PC",
+    "createdAt": "2026-09-01T17:19:17.000Z"
+  },
+  {
+    "id": "LOG-0092",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.183.236.47",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-01T16:32:15.000Z"
+  },
+  {
+    "id": "LOG-0088",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.176.143.182",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-09-01T10:11:20.000Z"
+  },
+  {
+    "id": "LOG-0021",
+    "userId": "USR-0011",
+    "email": "neha.sharma4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.239.238.152",
+    "device": "iPhone 15",
+    "createdAt": "2026-09-01T09:29:17.000Z"
+  },
+  {
+    "id": "LOG-0004",
+    "userId": "USR-0007",
+    "email": "customer@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.207.241.187",
+    "device": "OnePlus 12",
+    "createdAt": "2026-09-01T09:27:53.000Z"
+  },
+  {
+    "id": "LOG-0103",
+    "userId": "USR-0002",
+    "email": "analyst@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.122.227.70",
+    "device": "Web browser",
+    "createdAt": "2026-09-01T08:58:50.000Z"
+  },
+  {
+    "id": "LOG-0108",
+    "userId": "USR-0003",
+    "email": "analyst2@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.47.173.212",
+    "device": "Web browser",
+    "createdAt": "2026-09-01T07:54:31.000Z"
+  },
+  {
+    "id": "LOG-0125",
+    "userId": "USR-0001",
+    "email": "admin@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.32.147.4",
+    "device": "Web browser",
+    "createdAt": "2026-08-31T22:57:07.000Z"
+  },
+  {
+    "id": "LOG-0071",
+    "userId": "USR-0022",
+    "email": "pooja.malhotra15@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.216.6.253",
+    "device": "iPhone 15",
+    "createdAt": "2026-08-31T21:06:58.000Z"
+  },
+  {
+    "id": "LOG-0017",
+    "userId": "USR-0010",
+    "email": "vikram.nair3@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.59.145.83",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-31T19:23:34.000Z"
+  },
+  {
+    "id": "LOG-0081",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.54.210.168",
+    "device": "OnePlus 12",
+    "createdAt": "2026-08-31T18:58:45.000Z"
+  },
+  {
+    "id": "LOG-0082",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.184.106.26",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-31T15:26:21.000Z"
+  },
+  {
+    "id": "LOG-0063",
+    "userId": "USR-0020",
+    "email": "kavya.patel13@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.158.176.32",
+    "device": "OnePlus 12",
+    "createdAt": "2026-08-31T14:18:11.000Z"
+  },
+  {
+    "id": "LOG-0014",
+    "userId": "USR-0009",
+    "email": "ananya.sharma2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.182.57.124",
+    "device": "MacBook Pro",
+    "createdAt": "2026-08-31T13:49:14.000Z"
+  },
+  {
+    "id": "LOG-0058",
+    "userId": "USR-0018",
+    "email": "meera.gupta11@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.73.175.137",
+    "device": "Windows PC",
+    "createdAt": "2026-08-30T20:35:51.000Z"
+  },
+  {
+    "id": "LOG-0083",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.198.35.138",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-30T19:13:12.000Z"
+  },
+  {
+    "id": "LOG-0084",
+    "userId": "USR-0024",
+    "email": "riya.reddy17@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.11.186.193",
+    "device": "OnePlus 12",
+    "createdAt": "2026-08-30T15:47:25.000Z"
+  },
+  {
+    "id": "LOG-0034",
+    "userId": "USR-0013",
+    "email": "sanya.kapoor6@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.77.186.8",
+    "device": "Windows PC",
+    "createdAt": "2026-08-30T15:17:59.000Z"
+  },
+  {
+    "id": "LOG-0019",
+    "userId": "USR-0010",
+    "email": "vikram.nair3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.199.141.61",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-29T20:39:42.000Z"
+  },
+  {
+    "id": "LOG-0022",
+    "userId": "USR-0011",
+    "email": "neha.sharma4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.50.253.38",
+    "device": "iPhone 15",
+    "createdAt": "2026-08-29T15:07:27.000Z"
+  },
+  {
+    "id": "LOG-0006",
+    "userId": "USR-0008",
+    "email": "priya.iyer1@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.135.86.119",
+    "device": "MacBook Pro",
+    "createdAt": "2026-08-29T11:51:29.000Z"
+  },
+  {
+    "id": "LOG-0091",
+    "userId": "USR-0025",
+    "email": "nikhil.patel18@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.19.201.123",
+    "device": "OnePlus 12",
+    "createdAt": "2026-08-29T10:10:02.000Z"
+  },
+  {
+    "id": "LOG-0025",
+    "userId": "USR-0012",
+    "email": "arjun.gupta5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.32.184.186",
+    "device": "iPhone 15",
+    "createdAt": "2026-08-28T22:10:19.000Z"
+  },
+  {
+    "id": "LOG-0119",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.158.62.72",
+    "device": "Web browser",
+    "createdAt": "2026-08-28T17:55:52.000Z"
+  },
+  {
+    "id": "LOG-0117",
+    "userId": "USR-0005",
+    "email": "analyst4@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.0.105.250",
+    "device": "Web browser",
+    "createdAt": "2026-08-28T09:33:48.000Z"
+  },
+  {
+    "id": "LOG-0124",
+    "userId": "USR-0001",
+    "email": "admin@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.3.49.240",
+    "device": "Web browser",
+    "createdAt": "2026-08-27T20:15:48.000Z"
+  },
+  {
+    "id": "LOG-0111",
+    "userId": "USR-0004",
+    "email": "analyst3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.9.59.98",
+    "device": "Web browser",
+    "createdAt": "2026-08-27T19:59:19.000Z"
+  },
+  {
+    "id": "LOG-0109",
+    "userId": "USR-0003",
+    "email": "analyst2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.106.249.106",
+    "device": "Web browser",
+    "createdAt": "2026-08-27T19:54:45.000Z"
+  },
+  {
+    "id": "LOG-0030",
+    "userId": "USR-0013",
+    "email": "sanya.kapoor6@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.3.12.11",
+    "device": "Windows PC",
+    "createdAt": "2026-08-27T18:21:08.000Z"
+  },
+  {
+    "id": "LOG-0121",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.24.199.25",
+    "device": "Web browser",
+    "createdAt": "2026-08-27T12:20:51.000Z"
+  },
+  {
+    "id": "LOG-0068",
+    "userId": "USR-0021",
+    "email": "siddharth.malhotra14@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.200.165.28",
+    "device": "Windows PC",
+    "createdAt": "2026-08-27T10:25:43.000Z"
+  },
+  {
+    "id": "LOG-0127",
+    "userId": "USR-0001",
+    "email": "admin@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.214.96.21",
+    "device": "Web browser",
+    "createdAt": "2026-08-27T07:10:13.000Z"
+  },
+  {
+    "id": "LOG-0018",
+    "userId": "USR-0010",
+    "email": "vikram.nair3@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.207.148.211",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-26T21:08:24.000Z"
+  },
+  {
+    "id": "LOG-0123",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.24.81.28",
+    "device": "Web browser",
+    "createdAt": "2026-08-25T20:51:15.000Z"
+  },
+  {
+    "id": "LOG-0064",
+    "userId": "USR-0020",
+    "email": "kavya.patel13@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.114.182.80",
+    "device": "Samsung Galaxy S24",
+    "createdAt": "2026-08-24T19:20:52.000Z"
+  },
+  {
+    "id": "LOG-0122",
+    "userId": "USR-0006",
+    "email": "analyst5@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.247.203.189",
+    "device": "Web browser",
+    "createdAt": "2026-08-24T17:04:37.000Z"
+  },
+  {
+    "id": "LOG-0052",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "FAILED",
+    "ip": "10.118.176.16",
+    "device": "OnePlus 12",
+    "createdAt": "2026-08-24T11:03:56.000Z"
+  },
+  {
+    "id": "LOG-0051",
+    "userId": "USR-0017",
+    "email": "ishaan.kapoor10@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.98.124.206",
+    "device": "MacBook Pro",
+    "createdAt": "2026-08-24T10:07:02.000Z"
+  },
+  {
+    "id": "LOG-0107",
+    "userId": "USR-0003",
+    "email": "analyst2@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "10.45.149.203",
+    "device": "Web browser",
+    "createdAt": "2026-08-24T08:03:17.000Z"
+  },
+  {
+    "id": "LOG-0128",
+    "createdAt": "2026-09-23T10:42:39.788Z",
+    "userId": "USR-0001",
+    "email": "admin@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.138.0 Chrome/148.0.7778.280 Elec"
+  },
+  {
+    "id": "LOG-0129",
+    "createdAt": "2026-09-23T10:43:36.785Z",
+    "userId": "USR-0007",
+    "email": "customer@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.138.0 Chrome/148.0.7778.280 Elec"
+  },
+  {
+    "id": "LOG-0130",
+    "createdAt": "2026-09-23T10:48:42.419Z",
+    "userId": "USR-0002",
+    "email": "analyst@bankguard.demo",
+    "status": "SUCCESS",
+    "ip": "::1",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.138.0 Chrome/148.0.7778.280 Elec"
+  }
+]

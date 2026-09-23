@@ -1,0 +1,74 @@
+[
+  {
+    "id": "NOT-0001",
+    "userId": "USR-0013",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transaction of ₹84,261 was flagged and is being reviewed.",
+    "read": false,
+    "createdAt": "2026-09-17T10:01:13.000Z"
+  },
+  {
+    "id": "NOT-0002",
+    "userId": "USR-0013",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transaction of ₹79,750 was flagged and is being reviewed.",
+    "read": true,
+    "createdAt": "2026-09-14T03:38:28.000Z"
+  },
+  {
+    "id": "NOT-0003",
+    "userId": "USR-0014",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transaction of ₹94,530 was flagged and is being reviewed.",
+    "read": true,
+    "createdAt": "2026-09-13T20:39:59.000Z"
+  },
+  {
+    "id": "NOT-0004",
+    "userId": "USR-0019",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transaction of ₹86,484 was flagged and is being reviewed.",
+    "read": true,
+    "createdAt": "2026-09-14T17:15:16.000Z"
+  },
+  {
+    "id": "NOT-0005",
+    "userId": "USR-0021",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transaction of ₹84,126 was flagged and is being reviewed.",
+    "read": true,
+    "createdAt": "2026-09-03T23:39:09.000Z"
+  },
+  {
+    "id": "NOT-0006",
+    "read": true,
+    "createdAt": "2026-09-23T10:44:25.421Z",
+    "userId": "USR-0007",
+    "type": "SECURITY",
+    "title": "Transaction flagged for review",
+    "message": "Your transfer of ₹1,00,000 was flagged and is being reviewed by our fraud team."
+  },
+  {
+    "id": "NOT-0007",
+    "read": false,
+    "createdAt": "2026-09-23T10:49:16.222Z",
+    "userId": "USR-0014",
+    "type": "SECURITY",
+    "title": "Transaction approved",
+    "message": "Your transaction of ₹94,530 was reviewed and approved."
+  },
+  {
+    "id": "NOT-0008",
+    "read": false,
+    "createdAt": "2026-09-23T10:49:49.497Z",
+    "userId": "USR-0007",
+    "type": "SECURITY",
+    "title": "Transaction blocked",
+    "message": "Your transaction of ₹1,00,000 was blocked after review."
+  }
+]

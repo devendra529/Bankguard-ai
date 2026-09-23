@@ -1,0 +1,119 @@
+[
+  {
+    "id": "ALT-0001",
+    "transactionId": "TXN-10053",
+    "accountId": "ACC-1012",
+    "userId": "USR-0013",
+    "amount": 84261,
+    "fraudProbability": 0.9,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "New device detected"
+    ],
+    "status": "RESOLVED",
+    "assignedAnalystId": "USR-0005",
+    "notes": [
+      {
+        "analystId": "USR-0005",
+        "analystName": "Rohan Iyer",
+        "note": "Pattern matches known merchant. Cleared after review.",
+        "createdAt": "2026-09-18T09:50:11.000Z"
+      }
+    ],
+    "createdAt": "2026-09-17T10:01:13.000Z",
+    "updatedAt": "2026-09-18T11:34:32.000Z"
+  },
+  {
+    "id": "ALT-0004",
+    "transactionId": "TXN-10097",
+    "accountId": "ACC-1022",
+    "userId": "USR-0019",
+    "amount": 86484,
+    "fraudProbability": 0.96,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "High transaction velocity"
+    ],
+    "status": "OPEN",
+    "assignedAnalystId": null,
+    "notes": [],
+    "createdAt": "2026-09-14T17:15:16.000Z",
+    "updatedAt": "2026-09-14T20:16:32.000Z"
+  },
+  {
+    "id": "ALT-0002",
+    "transactionId": "TXN-10056",
+    "accountId": "ACC-1013",
+    "userId": "USR-0013",
+    "amount": 79750,
+    "fraudProbability": 0.75,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "Unusual location for this account",
+      "Unusual transaction time"
+    ],
+    "status": "OPEN",
+    "assignedAnalystId": "USR-0002",
+    "notes": [],
+    "createdAt": "2026-09-14T03:38:28.000Z",
+    "updatedAt": "2026-09-14T22:00:13.000Z"
+  },
+  {
+    "id": "ALT-0003",
+    "transactionId": "TXN-10065",
+    "accountId": "ACC-1015",
+    "userId": "USR-0014",
+    "amount": 94530,
+    "fraudProbability": 0.92,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "High transaction velocity"
+    ],
+    "status": "APPROVED",
+    "assignedAnalystId": "USR-0002",
+    "notes": [],
+    "createdAt": "2026-09-13T20:39:59.000Z",
+    "updatedAt": "2026-09-23T10:49:16.213Z"
+  },
+  {
+    "id": "ALT-0005",
+    "transactionId": "TXN-10109",
+    "accountId": "ACC-1024",
+    "userId": "USR-0021",
+    "amount": 84126,
+    "fraudProbability": 0.91,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "Unusual location for this account"
+    ],
+    "status": "INVESTIGATING",
+    "assignedAnalystId": "USR-0002",
+    "notes": [],
+    "createdAt": "2026-09-03T23:39:09.000Z",
+    "updatedAt": "2026-09-04T21:40:42.000Z"
+  },
+  {
+    "id": "ALT-0006",
+    "status": "BLOCKED",
+    "assignedAnalystId": "USR-0002",
+    "notes": [],
+    "createdAt": "2026-09-23T10:44:25.420Z",
+    "updatedAt": "2026-09-23T10:49:49.487Z",
+    "transactionId": "TXN-10134",
+    "accountId": "ACC-1000",
+    "userId": "USR-0007",
+    "amount": 100000,
+    "fraudProbability": 0.75,
+    "riskLevel": "HIGH",
+    "reasons": [
+      "Unusually high transaction amount",
+      "High amount-to-balance ratio",
+      "New device detected"
+    ]
+  }
+]

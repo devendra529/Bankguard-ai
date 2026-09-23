@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------
+   BankGuard AI theme tokens (RGB channels so Tailwind alpha works)
+   ------------------------------------------------------------------ */
+:root {
+  --background: 243 245 250;
+  --surface: 255 255 255;
+  --surface-muted: 237 241 248;
+  --border: 224 229 240;
+  --foreground: 11 27 58;
+  --muted: 96 110 138;
+  --primary: 11 27 58;
+  --primary-foreground: 255 255 255;
+  --sidebar: 11 27 58;
+  color-scheme: light;
+}
+
+.dark {
+  --background: 6 13 28;
+  --surface: 12 24 48;
+  --surface-muted: 18 34 66;
+  --border: 33 51 88;
+  --foreground: 232 238 250;
+  --muted: 146 160 190;
+  --primary: 59 122 255;
+  --primary-foreground: 255 255 255;
+  --sidebar: 8 17 36;
+  color-scheme: dark;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    font-feature-settings: "tnum" 1, "cv11" 1;
+  }
+
+  ::selection {
+    @apply bg-brand/30;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand ring-offset-2 ring-offset-background;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-semibold
+      transition-colors duration-150 disabled:cursor-not-allowed disabled:opacity-60;
+  }
+  .btn-primary {
+    @apply btn bg-primary text-primary-foreground hover:bg-primary/90;
+  }
+  .btn-secondary {
+    @apply btn border border-border bg-surface text-foreground hover:bg-surface-muted;
+  }
+  .btn-ghost {
+    @apply btn text-muted hover:bg-surface-muted hover:text-foreground;
+  }
+  .btn-light {
+    @apply btn bg-white text-navy-900 hover:bg-white/90;
+  }
+  .btn-outline-light {
+    @apply btn border border-white/25 bg-white/5 text-white hover:bg-white/10;
+  }
+
+  /* Surfaces */
+  .card {
+    @apply rounded-xl border border-border bg-surface shadow-card;
+  }
+
+  /* Risk badges (LOW / MEDIUM / HIGH) */
+  .badge {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-0.5 text-xs font-semibold;
+  }
+  .badge-low {
+    @apply badge bg-risk-low/10 text-emerald-700 dark:text-emerald-300;
+  }
+  .badge-medium {
+    @apply badge bg-risk-medium/15 text-amber-700 dark:text-amber-300;
+  }
+  .badge-high {
+    @apply badge bg-risk-high/10 text-red-700 dark:text-red-300;
+  }
+
+  .badge-green {
+    @apply badge bg-risk-low/10 text-emerald-700 dark:text-emerald-300;
+  }
+  .badge-amber {
+    @apply badge bg-risk-medium/15 text-amber-700 dark:text-amber-300;
+  }
+  .badge-red {
+    @apply badge bg-risk-high/10 text-red-700 dark:text-red-300;
+  }
+  .badge-blue {
+    @apply badge bg-brand/10 text-blue-700 dark:text-blue-300;
+  }
+  .badge-slate {
+    @apply badge bg-surface-muted text-muted;
+  }
+
+  /* Form controls */
+  .field-label {
+    @apply mb-1.5 block text-sm font-medium;
+  }
+  .input {
+    @apply h-10 w-full rounded-lg border border-border bg-surface px-3 text-sm text-foreground placeholder:text-muted/70
+      transition-colors disabled:cursor-not-allowed disabled:opacity-60;
+  }
+  .input-error {
+    @apply border-risk-high;
+  }
+  .field-error {
+    @apply mt-1.5 text-xs font-medium text-risk-high;
+  }
+
+  /* Hero decoration */
+  .hero-grid {
+    background-image:
+      linear-gradient(to right, rgb(255 255 255 / 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgb(255 255 255 / 0.05) 1px, transparent 1px);
+    background-size: 56px 56px;
+    mask-image: radial-gradient(ellipse 80% 70% at 60% 30%, #000 30%, transparent 100%);
+    -webkit-mask-image: radial-gradient(ellipse 80% 70% at 60% 30%, #000 30%, transparent 100%);
+  }
+
+  .glass {
+    @apply border border-white/10 bg-white/[0.06] backdrop-blur-md;
+  }
+
+  /* Skeleton shimmer */
+  .skeleton {
+    @apply relative overflow-hidden rounded-md bg-surface-muted;
+  }
+  .skeleton::after {
+    content: "";
+    @apply absolute inset-0 -translate-x-full animate-[shimmer_1.6s_infinite]
+      bg-gradient-to-r from-transparent via-white/40 to-transparent dark:via-white/5;
+  }
+}

@@ -1,0 +1,2765 @@
+[
+  {
+    "id": "AUD-0061",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10128",
+    "metadata": {
+      "amount": 2561,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-23T18:09:04.000Z"
+  },
+  {
+    "id": "AUD-0062",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10014",
+    "metadata": {
+      "amount": 4835,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-23T15:12:42.000Z"
+  },
+  {
+    "id": "AUD-0063",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10035",
+    "metadata": {
+      "amount": 45313,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-23T12:17:06.000Z"
+  },
+  {
+    "id": "AUD-0064",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10115",
+    "metadata": {
+      "amount": 28180,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-23T11:58:15.000Z"
+  },
+  {
+    "id": "AUD-0065",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10033",
+    "metadata": {
+      "amount": 18931,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-23T11:27:18.000Z"
+  },
+  {
+    "id": "AUD-0001",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0022",
+    "metadata": {
+      "ip": "10.59.52.148"
+    },
+    "timestamp": "2026-09-23T09:31:33.000Z"
+  },
+  {
+    "id": "AUD-0002",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0012",
+    "metadata": {
+      "ip": "10.74.150.101"
+    },
+    "timestamp": "2026-09-23T08:56:22.000Z"
+  },
+  {
+    "id": "AUD-0003",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0014",
+    "metadata": {
+      "ip": "10.47.143.117"
+    },
+    "timestamp": "2026-09-23T07:09:31.000Z"
+  },
+  {
+    "id": "AUD-0066",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10073",
+    "metadata": {
+      "amount": 38162,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-22T22:23:49.000Z"
+  },
+  {
+    "id": "AUD-0067",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10062",
+    "metadata": {
+      "amount": 27042,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-22T21:30:16.000Z"
+  },
+  {
+    "id": "AUD-0004",
+    "userId": "USR-0018",
+    "userName": "Meera Gupta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0018",
+    "metadata": {
+      "ip": "10.57.225.108"
+    },
+    "timestamp": "2026-09-22T21:25:42.000Z"
+  },
+  {
+    "id": "AUD-0068",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10037",
+    "metadata": {
+      "amount": 6941,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-22T20:29:41.000Z"
+  },
+  {
+    "id": "AUD-0069",
+    "userId": "USR-0018",
+    "userName": "Meera Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10094",
+    "metadata": {
+      "amount": 4030,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-22T18:44:19.000Z"
+  },
+  {
+    "id": "AUD-0070",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10107",
+    "metadata": {
+      "amount": 42278,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-22T18:34:43.000Z"
+  },
+  {
+    "id": "AUD-0071",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10100",
+    "metadata": {
+      "amount": 19498,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-22T18:03:59.000Z"
+  },
+  {
+    "id": "AUD-0005",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0015",
+    "metadata": {
+      "ip": "10.240.247.1"
+    },
+    "timestamp": "2026-09-22T17:09:15.000Z"
+  },
+  {
+    "id": "AUD-0072",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10123",
+    "metadata": {
+      "amount": 552,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-22T16:05:05.000Z"
+  },
+  {
+    "id": "AUD-0006",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0015",
+    "metadata": {
+      "ip": "10.216.69.82"
+    },
+    "timestamp": "2026-09-22T15:53:03.000Z"
+  },
+  {
+    "id": "AUD-0073",
+    "userId": "USR-0019",
+    "userName": "Aditya Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10098",
+    "metadata": {
+      "amount": 5386,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-22T10:50:56.000Z"
+  },
+  {
+    "id": "AUD-0007",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0010",
+    "metadata": {
+      "ip": "10.10.186.50"
+    },
+    "timestamp": "2026-09-22T10:02:51.000Z"
+  },
+  {
+    "id": "AUD-0074",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10078",
+    "metadata": {
+      "amount": 44223,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-22T08:03:56.000Z"
+  },
+  {
+    "id": "AUD-0075",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10012",
+    "metadata": {
+      "amount": 4574,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-21T22:04:55.000Z"
+  },
+  {
+    "id": "AUD-0008",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0022",
+    "metadata": {
+      "ip": "10.141.126.242"
+    },
+    "timestamp": "2026-09-21T21:47:33.000Z"
+  },
+  {
+    "id": "AUD-0009",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0014",
+    "metadata": {
+      "ip": "10.33.198.129"
+    },
+    "timestamp": "2026-09-21T20:31:01.000Z"
+  },
+  {
+    "id": "AUD-0010",
+    "userId": "USR-0006",
+    "userName": "Meera Joshi",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0006",
+    "metadata": {
+      "ip": "10.223.188.171"
+    },
+    "timestamp": "2026-09-21T16:50:35.000Z"
+  },
+  {
+    "id": "AUD-0011",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.3.11.231"
+    },
+    "timestamp": "2026-09-21T15:59:40.000Z"
+  },
+  {
+    "id": "AUD-0076",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10049",
+    "metadata": {
+      "amount": 5502,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-21T15:39:11.000Z"
+  },
+  {
+    "id": "AUD-0077",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10027",
+    "metadata": {
+      "amount": 589,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-21T12:48:41.000Z"
+  },
+  {
+    "id": "AUD-0078",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10066",
+    "metadata": {
+      "amount": 19905,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-21T12:24:15.000Z"
+  },
+  {
+    "id": "AUD-0079",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10122",
+    "metadata": {
+      "amount": 7820,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-21T09:56:22.000Z"
+  },
+  {
+    "id": "AUD-0080",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10102",
+    "metadata": {
+      "amount": 35252,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-21T09:04:48.000Z"
+  },
+  {
+    "id": "AUD-0081",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10080",
+    "metadata": {
+      "amount": 29962,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-21T07:59:25.000Z"
+  },
+  {
+    "id": "AUD-0082",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10041",
+    "metadata": {
+      "amount": 7690,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T21:31:30.000Z"
+  },
+  {
+    "id": "AUD-0083",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10079",
+    "metadata": {
+      "amount": 2050,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T15:23:17.000Z"
+  },
+  {
+    "id": "AUD-0084",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10022",
+    "metadata": {
+      "amount": 1096,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T14:53:27.000Z"
+  },
+  {
+    "id": "AUD-0085",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10046",
+    "metadata": {
+      "amount": 1671,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T13:07:05.000Z"
+  },
+  {
+    "id": "AUD-0012",
+    "userId": "USR-0018",
+    "userName": "Meera Gupta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0018",
+    "metadata": {
+      "ip": "10.196.77.168"
+    },
+    "timestamp": "2026-09-20T11:08:12.000Z"
+  },
+  {
+    "id": "AUD-0086",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10090",
+    "metadata": {
+      "amount": 7226,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T10:54:17.000Z"
+  },
+  {
+    "id": "AUD-0087",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10015",
+    "metadata": {
+      "amount": 3116,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-20T10:15:53.000Z"
+  },
+  {
+    "id": "AUD-0013",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0009",
+    "metadata": {
+      "ip": "10.86.247.117"
+    },
+    "timestamp": "2026-09-20T07:57:53.000Z"
+  },
+  {
+    "id": "AUD-0088",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10067",
+    "metadata": {
+      "amount": 26685,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-20T07:49:03.000Z"
+  },
+  {
+    "id": "AUD-0014",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0016",
+    "metadata": {
+      "ip": "10.194.176.162"
+    },
+    "timestamp": "2026-09-20T07:09:14.000Z"
+  },
+  {
+    "id": "AUD-0089",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10058",
+    "metadata": {
+      "amount": 41111,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-19T15:46:10.000Z"
+  },
+  {
+    "id": "AUD-0015",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0008",
+    "metadata": {
+      "ip": "10.134.184.169"
+    },
+    "timestamp": "2026-09-19T15:08:01.000Z"
+  },
+  {
+    "id": "AUD-0090",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10052",
+    "metadata": {
+      "amount": 26568,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-19T14:55:06.000Z"
+  },
+  {
+    "id": "AUD-0091",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10028",
+    "metadata": {
+      "amount": 31446,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-19T14:36:36.000Z"
+  },
+  {
+    "id": "AUD-0016",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.57.199.215"
+    },
+    "timestamp": "2026-09-19T12:27:24.000Z"
+  },
+  {
+    "id": "AUD-0017",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0007",
+    "metadata": {
+      "ip": "10.228.92.22"
+    },
+    "timestamp": "2026-09-19T09:54:13.000Z"
+  },
+  {
+    "id": "AUD-0018",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.254.86.24"
+    },
+    "timestamp": "2026-09-19T08:50:48.000Z"
+  },
+  {
+    "id": "AUD-0092",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10007",
+    "metadata": {
+      "amount": 41266,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-18T22:19:46.000Z"
+  },
+  {
+    "id": "AUD-0019",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0013",
+    "metadata": {
+      "ip": "10.156.213.77"
+    },
+    "timestamp": "2026-09-18T21:48:57.000Z"
+  },
+  {
+    "id": "AUD-0093",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10101",
+    "metadata": {
+      "amount": 458,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T20:02:11.000Z"
+  },
+  {
+    "id": "AUD-0020",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0021",
+    "metadata": {
+      "ip": "10.158.140.109"
+    },
+    "timestamp": "2026-09-18T17:53:40.000Z"
+  },
+  {
+    "id": "AUD-0094",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10055",
+    "metadata": {
+      "amount": 6879,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T16:18:00.000Z"
+  },
+  {
+    "id": "AUD-0095",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10020",
+    "metadata": {
+      "amount": 7957,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T15:49:33.000Z"
+  },
+  {
+    "id": "AUD-0096",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10089",
+    "metadata": {
+      "amount": 4730,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T15:10:08.000Z"
+  },
+  {
+    "id": "AUD-0021",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0023",
+    "metadata": {
+      "ip": "10.22.130.133"
+    },
+    "timestamp": "2026-09-18T15:02:19.000Z"
+  },
+  {
+    "id": "AUD-0195",
+    "userId": "USR-0005",
+    "userName": "Rohan Iyer",
+    "action": "ALERT_ASSIGNED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0001",
+    "metadata": {},
+    "timestamp": "2026-09-18T11:34:32.000Z"
+  },
+  {
+    "id": "AUD-0196",
+    "userId": "USR-0005",
+    "userName": "Rohan Iyer",
+    "action": "ALERT_RESOLVED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0001",
+    "metadata": {},
+    "timestamp": "2026-09-18T11:34:32.000Z"
+  },
+  {
+    "id": "AUD-0097",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10038",
+    "metadata": {
+      "amount": 7309,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T09:22:15.000Z"
+  },
+  {
+    "id": "AUD-0098",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10103",
+    "metadata": {
+      "amount": 1450,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-18T07:10:08.000Z"
+  },
+  {
+    "id": "AUD-0099",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10108",
+    "metadata": {
+      "amount": 289,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-17T21:06:01.000Z"
+  },
+  {
+    "id": "AUD-0100",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10054",
+    "metadata": {
+      "amount": 5348,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-17T20:30:07.000Z"
+  },
+  {
+    "id": "AUD-0101",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10005",
+    "metadata": {
+      "amount": 45487,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-17T16:50:10.000Z"
+  },
+  {
+    "id": "AUD-0102",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10068",
+    "metadata": {
+      "amount": 7990,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-17T16:32:26.000Z"
+  },
+  {
+    "id": "AUD-0022",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0002",
+    "metadata": {
+      "ip": "10.155.218.249"
+    },
+    "timestamp": "2026-09-17T15:49:46.000Z"
+  },
+  {
+    "id": "AUD-0023",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0016",
+    "metadata": {
+      "ip": "10.110.63.239"
+    },
+    "timestamp": "2026-09-17T15:03:46.000Z"
+  },
+  {
+    "id": "AUD-0024",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0017",
+    "metadata": {
+      "ip": "10.22.205.21"
+    },
+    "timestamp": "2026-09-17T14:42:52.000Z"
+  },
+  {
+    "id": "AUD-0103",
+    "userId": "USR-0019",
+    "userName": "Aditya Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10096",
+    "metadata": {
+      "amount": 3146,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-17T10:56:06.000Z"
+  },
+  {
+    "id": "AUD-0104",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10053",
+    "metadata": {
+      "amount": 84261,
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-17T10:01:13.000Z"
+  },
+  {
+    "id": "AUD-0194",
+    "userId": "USR-0001",
+    "userName": "System",
+    "action": "FRAUD_ALERT_CREATED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0001",
+    "metadata": {
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-17T10:01:13.000Z"
+  },
+  {
+    "id": "AUD-0025",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0014",
+    "metadata": {
+      "ip": "10.130.101.76"
+    },
+    "timestamp": "2026-09-17T09:35:20.000Z"
+  },
+  {
+    "id": "AUD-0026",
+    "userId": "USR-0004",
+    "userName": "Sanya Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0004",
+    "metadata": {
+      "ip": "10.56.241.18"
+    },
+    "timestamp": "2026-09-17T09:10:39.000Z"
+  },
+  {
+    "id": "AUD-0027",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0002",
+    "metadata": {
+      "ip": "10.103.154.108"
+    },
+    "timestamp": "2026-09-17T08:06:24.000Z"
+  },
+  {
+    "id": "AUD-0028",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0001",
+    "metadata": {
+      "ip": "10.96.33.164"
+    },
+    "timestamp": "2026-09-17T07:47:05.000Z"
+  },
+  {
+    "id": "AUD-0029",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0025",
+    "metadata": {
+      "ip": "10.131.203.58"
+    },
+    "timestamp": "2026-09-17T07:43:05.000Z"
+  },
+  {
+    "id": "AUD-0030",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0024",
+    "metadata": {
+      "ip": "10.5.251.76"
+    },
+    "timestamp": "2026-09-17T07:02:53.000Z"
+  },
+  {
+    "id": "AUD-0105",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10043",
+    "metadata": {
+      "amount": 1821,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-16T22:24:11.000Z"
+  },
+  {
+    "id": "AUD-0031",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0017",
+    "metadata": {
+      "ip": "10.111.11.65"
+    },
+    "timestamp": "2026-09-16T21:23:55.000Z"
+  },
+  {
+    "id": "AUD-0106",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10074",
+    "metadata": {
+      "amount": 20697,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-16T19:31:57.000Z"
+  },
+  {
+    "id": "AUD-0032",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0022",
+    "metadata": {
+      "ip": "10.101.218.146"
+    },
+    "timestamp": "2026-09-16T19:18:25.000Z"
+  },
+  {
+    "id": "AUD-0107",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10082",
+    "metadata": {
+      "amount": 1283,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-16T17:10:32.000Z"
+  },
+  {
+    "id": "AUD-0033",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0021",
+    "metadata": {
+      "ip": "10.42.108.182"
+    },
+    "timestamp": "2026-09-16T15:07:51.000Z"
+  },
+  {
+    "id": "AUD-0034",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0013",
+    "metadata": {
+      "ip": "10.137.155.142"
+    },
+    "timestamp": "2026-09-16T12:57:30.000Z"
+  },
+  {
+    "id": "AUD-0035",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0016",
+    "metadata": {
+      "ip": "10.240.152.177"
+    },
+    "timestamp": "2026-09-16T10:55:13.000Z"
+  },
+  {
+    "id": "AUD-0108",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10133",
+    "metadata": {
+      "amount": 6465,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-16T07:39:37.000Z"
+  },
+  {
+    "id": "AUD-0109",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10003",
+    "metadata": {
+      "amount": 7684,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-16T07:36:27.000Z"
+  },
+  {
+    "id": "AUD-0110",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10023",
+    "metadata": {
+      "amount": 2932,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-15T20:45:48.000Z"
+  },
+  {
+    "id": "AUD-0036",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0009",
+    "metadata": {
+      "ip": "10.20.178.231"
+    },
+    "timestamp": "2026-09-15T19:33:17.000Z"
+  },
+  {
+    "id": "AUD-0037",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0009",
+    "metadata": {
+      "ip": "10.22.234.44"
+    },
+    "timestamp": "2026-09-15T11:31:16.000Z"
+  },
+  {
+    "id": "AUD-0111",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10030",
+    "metadata": {
+      "amount": 7248,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-15T11:14:16.000Z"
+  },
+  {
+    "id": "AUD-0038",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0024",
+    "metadata": {
+      "ip": "10.250.85.44"
+    },
+    "timestamp": "2026-09-15T10:21:41.000Z"
+  },
+  {
+    "id": "AUD-0112",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10121",
+    "metadata": {
+      "amount": 26329,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-15T07:46:29.000Z"
+  },
+  {
+    "id": "AUD-0201",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "ALERT_ASSIGNED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0003",
+    "metadata": {},
+    "timestamp": "2026-09-14T22:47:28.000Z"
+  },
+  {
+    "id": "AUD-0199",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "ALERT_ASSIGNED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0002",
+    "metadata": {},
+    "timestamp": "2026-09-14T22:00:13.000Z"
+  },
+  {
+    "id": "AUD-0113",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10031",
+    "metadata": {
+      "amount": 911,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-14T18:48:06.000Z"
+  },
+  {
+    "id": "AUD-0114",
+    "userId": "USR-0019",
+    "userName": "Aditya Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10097",
+    "metadata": {
+      "amount": 86484,
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-14T17:15:16.000Z"
+  },
+  {
+    "id": "AUD-0197",
+    "userId": "USR-0001",
+    "userName": "System",
+    "action": "FRAUD_ALERT_CREATED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0004",
+    "metadata": {
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-14T17:15:16.000Z"
+  },
+  {
+    "id": "AUD-0039",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.117.235.181"
+    },
+    "timestamp": "2026-09-14T15:24:52.000Z"
+  },
+  {
+    "id": "AUD-0115",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10099",
+    "metadata": {
+      "amount": 2602,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-14T14:58:15.000Z"
+  },
+  {
+    "id": "AUD-0116",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10061",
+    "metadata": {
+      "amount": 6930,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-14T13:56:18.000Z"
+  },
+  {
+    "id": "AUD-0117",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10059",
+    "metadata": {
+      "amount": 24650,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-14T10:37:04.000Z"
+  },
+  {
+    "id": "AUD-0118",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10019",
+    "metadata": {
+      "amount": 39605,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-14T09:06:57.000Z"
+  },
+  {
+    "id": "AUD-0119",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10056",
+    "metadata": {
+      "amount": 79750,
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-14T03:38:28.000Z"
+  },
+  {
+    "id": "AUD-0198",
+    "userId": "USR-0001",
+    "userName": "System",
+    "action": "FRAUD_ALERT_CREATED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0002",
+    "metadata": {
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-14T03:38:28.000Z"
+  },
+  {
+    "id": "AUD-0120",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10018",
+    "metadata": {
+      "amount": 6733,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-13T23:24:28.000Z"
+  },
+  {
+    "id": "AUD-0121",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10076",
+    "metadata": {
+      "amount": 35070,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-13T21:08:08.000Z"
+  },
+  {
+    "id": "AUD-0122",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10065",
+    "metadata": {
+      "amount": 94530,
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-13T20:39:59.000Z"
+  },
+  {
+    "id": "AUD-0200",
+    "userId": "USR-0001",
+    "userName": "System",
+    "action": "FRAUD_ALERT_CREATED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0003",
+    "metadata": {
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-13T20:39:59.000Z"
+  },
+  {
+    "id": "AUD-0123",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10091",
+    "metadata": {
+      "amount": 19062,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-13T15:26:18.000Z"
+  },
+  {
+    "id": "AUD-0124",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10048",
+    "metadata": {
+      "amount": 5634,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-13T13:54:16.000Z"
+  },
+  {
+    "id": "AUD-0040",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0014",
+    "metadata": {
+      "ip": "10.109.31.8"
+    },
+    "timestamp": "2026-09-13T13:10:52.000Z"
+  },
+  {
+    "id": "AUD-0041",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0013",
+    "metadata": {
+      "ip": "10.153.98.64"
+    },
+    "timestamp": "2026-09-13T12:23:08.000Z"
+  },
+  {
+    "id": "AUD-0042",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0022",
+    "metadata": {
+      "ip": "10.19.93.182"
+    },
+    "timestamp": "2026-09-13T10:46:49.000Z"
+  },
+  {
+    "id": "AUD-0125",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10071",
+    "metadata": {
+      "amount": 2373,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-13T10:00:19.000Z"
+  },
+  {
+    "id": "AUD-0043",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0021",
+    "metadata": {
+      "ip": "10.171.223.200"
+    },
+    "timestamp": "2026-09-13T09:52:49.000Z"
+  },
+  {
+    "id": "AUD-0126",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10084",
+    "metadata": {
+      "amount": 5631,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-13T09:31:09.000Z"
+  },
+  {
+    "id": "AUD-0127",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10110",
+    "metadata": {
+      "amount": 2845,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-13T09:06:37.000Z"
+  },
+  {
+    "id": "AUD-0128",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10117",
+    "metadata": {
+      "amount": 1903,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-12T23:59:40.000Z"
+  },
+  {
+    "id": "AUD-0129",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10013",
+    "metadata": {
+      "amount": 4779,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-12T22:30:31.000Z"
+  },
+  {
+    "id": "AUD-0130",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10064",
+    "metadata": {
+      "amount": 22689,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-12T22:30:15.000Z"
+  },
+  {
+    "id": "AUD-0131",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10006",
+    "metadata": {
+      "amount": 46309,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-12T19:28:06.000Z"
+  },
+  {
+    "id": "AUD-0044",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0002",
+    "metadata": {
+      "ip": "10.42.52.241"
+    },
+    "timestamp": "2026-09-12T17:01:37.000Z"
+  },
+  {
+    "id": "AUD-0132",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10086",
+    "metadata": {
+      "amount": 7682,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-11T22:52:55.000Z"
+  },
+  {
+    "id": "AUD-0045",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0016",
+    "metadata": {
+      "ip": "10.27.245.101"
+    },
+    "timestamp": "2026-09-11T21:11:16.000Z"
+  },
+  {
+    "id": "AUD-0133",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10026",
+    "metadata": {
+      "amount": 6392,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-11T20:25:13.000Z"
+  },
+  {
+    "id": "AUD-0046",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0012",
+    "metadata": {
+      "ip": "10.232.85.177"
+    },
+    "timestamp": "2026-09-11T19:17:55.000Z"
+  },
+  {
+    "id": "AUD-0134",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10125",
+    "metadata": {
+      "amount": 7089,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-11T18:59:43.000Z"
+  },
+  {
+    "id": "AUD-0047",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.102.32.85"
+    },
+    "timestamp": "2026-09-11T18:06:23.000Z"
+  },
+  {
+    "id": "AUD-0135",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10081",
+    "metadata": {
+      "amount": 7579,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-11T14:44:11.000Z"
+  },
+  {
+    "id": "AUD-0136",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10050",
+    "metadata": {
+      "amount": 17451,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-11T12:40:30.000Z"
+  },
+  {
+    "id": "AUD-0137",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10021",
+    "metadata": {
+      "amount": 1803,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-11T09:18:58.000Z"
+  },
+  {
+    "id": "AUD-0138",
+    "userId": "USR-0010",
+    "userName": "Vikram Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10029",
+    "metadata": {
+      "amount": 6450,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-10T23:21:19.000Z"
+  },
+  {
+    "id": "AUD-0139",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10131",
+    "metadata": {
+      "amount": 3383,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-10T21:07:34.000Z"
+  },
+  {
+    "id": "AUD-0048",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0008",
+    "metadata": {
+      "ip": "10.123.204.16"
+    },
+    "timestamp": "2026-09-10T21:07:24.000Z"
+  },
+  {
+    "id": "AUD-0140",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10119",
+    "metadata": {
+      "amount": 36248,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-10T20:59:23.000Z"
+  },
+  {
+    "id": "AUD-0141",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10010",
+    "metadata": {
+      "amount": 6397,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-10T18:46:01.000Z"
+  },
+  {
+    "id": "AUD-0142",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10113",
+    "metadata": {
+      "amount": 6779,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-10T12:46:53.000Z"
+  },
+  {
+    "id": "AUD-0143",
+    "userId": "USR-0018",
+    "userName": "Meera Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10093",
+    "metadata": {
+      "amount": 4640,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-10T08:15:27.000Z"
+  },
+  {
+    "id": "AUD-0144",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10087",
+    "metadata": {
+      "amount": 27921,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-09T21:40:59.000Z"
+  },
+  {
+    "id": "AUD-0049",
+    "userId": "USR-0019",
+    "userName": "Aditya Nair",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0019",
+    "metadata": {
+      "ip": "10.30.14.33"
+    },
+    "timestamp": "2026-09-09T21:18:43.000Z"
+  },
+  {
+    "id": "AUD-0050",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0026",
+    "metadata": {
+      "ip": "10.244.180.156"
+    },
+    "timestamp": "2026-09-09T20:35:42.000Z"
+  },
+  {
+    "id": "AUD-0051",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0007",
+    "metadata": {
+      "ip": "10.168.38.153"
+    },
+    "timestamp": "2026-09-09T20:34:24.000Z"
+  },
+  {
+    "id": "AUD-0052",
+    "userId": "USR-0005",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0005",
+    "metadata": {
+      "ip": "10.45.97.191"
+    },
+    "timestamp": "2026-09-09T19:40:24.000Z"
+  },
+  {
+    "id": "AUD-0145",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10106",
+    "metadata": {
+      "amount": 40906,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-09T18:57:19.000Z"
+  },
+  {
+    "id": "AUD-0146",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10130",
+    "metadata": {
+      "amount": 555,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-09T18:56:18.000Z"
+  },
+  {
+    "id": "AUD-0147",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10057",
+    "metadata": {
+      "amount": 7826,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-09T17:55:17.000Z"
+  },
+  {
+    "id": "AUD-0148",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10085",
+    "metadata": {
+      "amount": 32922,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-09T17:54:38.000Z"
+  },
+  {
+    "id": "AUD-0149",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10127",
+    "metadata": {
+      "amount": 3505,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-09T17:44:58.000Z"
+  },
+  {
+    "id": "AUD-0053",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0023",
+    "metadata": {
+      "ip": "10.104.28.254"
+    },
+    "timestamp": "2026-09-09T17:17:39.000Z"
+  },
+  {
+    "id": "AUD-0150",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10040",
+    "metadata": {
+      "amount": 1188,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-09T15:11:13.000Z"
+  },
+  {
+    "id": "AUD-0151",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10032",
+    "metadata": {
+      "amount": 2810,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-09T12:02:09.000Z"
+  },
+  {
+    "id": "AUD-0054",
+    "userId": "USR-0004",
+    "userName": "Sanya Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0004",
+    "metadata": {
+      "ip": "10.121.211.77"
+    },
+    "timestamp": "2026-09-09T08:31:52.000Z"
+  },
+  {
+    "id": "AUD-0152",
+    "userId": "USR-0018",
+    "userName": "Meera Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10092",
+    "metadata": {
+      "amount": 4211,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-08T23:24:58.000Z"
+  },
+  {
+    "id": "AUD-0153",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10024",
+    "metadata": {
+      "amount": 44421,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-08T20:39:31.000Z"
+  },
+  {
+    "id": "AUD-0055",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0009",
+    "metadata": {
+      "ip": "10.182.171.89"
+    },
+    "timestamp": "2026-09-08T18:07:33.000Z"
+  },
+  {
+    "id": "AUD-0056",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0015",
+    "metadata": {
+      "ip": "10.175.146.131"
+    },
+    "timestamp": "2026-09-08T16:07:14.000Z"
+  },
+  {
+    "id": "AUD-0154",
+    "userId": "USR-0017",
+    "userName": "Ishaan Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10088",
+    "metadata": {
+      "amount": 41128,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-08T14:50:00.000Z"
+  },
+  {
+    "id": "AUD-0155",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10051",
+    "metadata": {
+      "amount": 2330,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-08T14:25:27.000Z"
+  },
+  {
+    "id": "AUD-0156",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10124",
+    "metadata": {
+      "amount": 2540,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-08T13:52:43.000Z"
+  },
+  {
+    "id": "AUD-0157",
+    "userId": "USR-0016",
+    "userName": "Rohan Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10083",
+    "metadata": {
+      "amount": 7916,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-08T11:31:28.000Z"
+  },
+  {
+    "id": "AUD-0057",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0012",
+    "metadata": {
+      "ip": "10.127.202.231"
+    },
+    "timestamp": "2026-09-08T09:03:43.000Z"
+  },
+  {
+    "id": "AUD-0158",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10116",
+    "metadata": {
+      "amount": 7653,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-08T07:39:36.000Z"
+  },
+  {
+    "id": "AUD-0159",
+    "userId": "USR-0023",
+    "userName": "Aryan Rao",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10118",
+    "metadata": {
+      "amount": 5819,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-07T23:23:21.000Z"
+  },
+  {
+    "id": "AUD-0160",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10039",
+    "metadata": {
+      "amount": 22932,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-07T23:22:08.000Z"
+  },
+  {
+    "id": "AUD-0058",
+    "userId": "USR-0005",
+    "userName": "Rohan Iyer",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0005",
+    "metadata": {
+      "ip": "10.148.77.89"
+    },
+    "timestamp": "2026-09-07T22:08:32.000Z"
+  },
+  {
+    "id": "AUD-0059",
+    "userId": "USR-0005",
+    "userName": "Rohan Iyer",
+    "action": "FAILED_LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0005",
+    "metadata": {
+      "ip": "10.199.107.105"
+    },
+    "timestamp": "2026-09-07T18:35:54.000Z"
+  },
+  {
+    "id": "AUD-0060",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0022",
+    "metadata": {
+      "ip": "10.251.9.125"
+    },
+    "timestamp": "2026-09-07T16:30:16.000Z"
+  },
+  {
+    "id": "AUD-0161",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10004",
+    "metadata": {
+      "amount": 43532,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-06T23:29:20.000Z"
+  },
+  {
+    "id": "AUD-0162",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10011",
+    "metadata": {
+      "amount": 5338,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-06T22:04:41.000Z"
+  },
+  {
+    "id": "AUD-0163",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10063",
+    "metadata": {
+      "amount": 7663,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-06T08:15:32.000Z"
+  },
+  {
+    "id": "AUD-0164",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10036",
+    "metadata": {
+      "amount": 6738,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-06T07:52:30.000Z"
+  },
+  {
+    "id": "AUD-0165",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10072",
+    "metadata": {
+      "amount": 608,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-05T23:46:33.000Z"
+  },
+  {
+    "id": "AUD-0166",
+    "userId": "USR-0024",
+    "userName": "Riya Reddy",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10120",
+    "metadata": {
+      "amount": 6171,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-05T15:32:00.000Z"
+  },
+  {
+    "id": "AUD-0167",
+    "userId": "USR-0020",
+    "userName": "Kavya Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10104",
+    "metadata": {
+      "amount": 18870,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-05T11:15:55.000Z"
+  },
+  {
+    "id": "AUD-0168",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10001",
+    "metadata": {
+      "amount": 5836,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-05T09:47:29.000Z"
+  },
+  {
+    "id": "AUD-0169",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10009",
+    "metadata": {
+      "amount": 3720,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-04T22:26:43.000Z"
+  },
+  {
+    "id": "AUD-0203",
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "ALERT_ASSIGNED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0005",
+    "metadata": {},
+    "timestamp": "2026-09-04T21:40:42.000Z"
+  },
+  {
+    "id": "AUD-0170",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10047",
+    "metadata": {
+      "amount": 2478,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-04T20:57:55.000Z"
+  },
+  {
+    "id": "AUD-0171",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10008",
+    "metadata": {
+      "amount": 4201,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-04T15:27:24.000Z"
+  },
+  {
+    "id": "AUD-0172",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10129",
+    "metadata": {
+      "amount": 38746,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-04T15:24:33.000Z"
+  },
+  {
+    "id": "AUD-0173",
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10002",
+    "metadata": {
+      "amount": 5117,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-04T13:22:49.000Z"
+  },
+  {
+    "id": "AUD-0174",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10077",
+    "metadata": {
+      "amount": 1360,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-04T12:34:59.000Z"
+  },
+  {
+    "id": "AUD-0175",
+    "userId": "USR-0014",
+    "userName": "Karan Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10069",
+    "metadata": {
+      "amount": 45431,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-04T07:54:55.000Z"
+  },
+  {
+    "id": "AUD-0176",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10109",
+    "metadata": {
+      "amount": 84126,
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-03T23:39:09.000Z"
+  },
+  {
+    "id": "AUD-0202",
+    "userId": "USR-0001",
+    "userName": "System",
+    "action": "FRAUD_ALERT_CREATED",
+    "resourceType": "ALERT",
+    "resourceId": "ALT-0005",
+    "metadata": {
+      "riskLevel": "HIGH"
+    },
+    "timestamp": "2026-09-03T23:39:09.000Z"
+  },
+  {
+    "id": "AUD-0177",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10042",
+    "metadata": {
+      "amount": 1024,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-03T19:54:25.000Z"
+  },
+  {
+    "id": "AUD-0178",
+    "userId": "USR-0025",
+    "userName": "Nikhil Patel",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10126",
+    "metadata": {
+      "amount": 6045,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-03T19:17:44.000Z"
+  },
+  {
+    "id": "AUD-0179",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10045",
+    "metadata": {
+      "amount": 5328,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-03T18:13:59.000Z"
+  },
+  {
+    "id": "AUD-0180",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10114",
+    "metadata": {
+      "amount": 41763,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-03T17:15:09.000Z"
+  },
+  {
+    "id": "AUD-0181",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10112",
+    "metadata": {
+      "amount": 37015,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-03T12:35:56.000Z"
+  },
+  {
+    "id": "AUD-0182",
+    "userId": "USR-0021",
+    "userName": "Siddharth Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10105",
+    "metadata": {
+      "amount": 648,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-03T09:05:17.000Z"
+  },
+  {
+    "id": "AUD-0183",
+    "userId": "USR-0013",
+    "userName": "Sanya Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10060",
+    "metadata": {
+      "amount": 6672,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-03T07:17:23.000Z"
+  },
+  {
+    "id": "AUD-0184",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10075",
+    "metadata": {
+      "amount": 6966,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T23:50:25.000Z"
+  },
+  {
+    "id": "AUD-0185",
+    "userId": "USR-0026",
+    "userName": "Tanya Singh",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10132",
+    "metadata": {
+      "amount": 5753,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T20:46:53.000Z"
+  },
+  {
+    "id": "AUD-0186",
+    "userId": "USR-0011",
+    "userName": "Neha Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10034",
+    "metadata": {
+      "amount": 30965,
+      "riskLevel": "MEDIUM"
+    },
+    "timestamp": "2026-09-02T20:22:43.000Z"
+  },
+  {
+    "id": "AUD-0187",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10016",
+    "metadata": {
+      "amount": 7472,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T20:10:27.000Z"
+  },
+  {
+    "id": "AUD-0188",
+    "userId": "USR-0009",
+    "userName": "Ananya Sharma",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10025",
+    "metadata": {
+      "amount": 1055,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T17:59:22.000Z"
+  },
+  {
+    "id": "AUD-0189",
+    "userId": "USR-0022",
+    "userName": "Pooja Malhotra",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10111",
+    "metadata": {
+      "amount": 4491,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T13:53:27.000Z"
+  },
+  {
+    "id": "AUD-0190",
+    "userId": "USR-0008",
+    "userName": "Priya Iyer",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10017",
+    "metadata": {
+      "amount": 5222,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T13:30:22.000Z"
+  },
+  {
+    "id": "AUD-0191",
+    "userId": "USR-0019",
+    "userName": "Aditya Nair",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10095",
+    "metadata": {
+      "amount": 3948,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T12:01:57.000Z"
+  },
+  {
+    "id": "AUD-0192",
+    "userId": "USR-0012",
+    "userName": "Arjun Gupta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10044",
+    "metadata": {
+      "amount": 4388,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T09:57:38.000Z"
+  },
+  {
+    "id": "AUD-0193",
+    "userId": "USR-0015",
+    "userName": "Divya Mehta",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10070",
+    "metadata": {
+      "amount": 2652,
+      "riskLevel": "LOW"
+    },
+    "timestamp": "2026-09-02T07:31:38.000Z"
+  },
+  {
+    "id": "AUD-0209",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0006",
+    "metadata": {
+      "name": "High Amount-to-Balance Ratio"
+    },
+    "timestamp": "2026-08-24T21:01:23.000Z"
+  },
+  {
+    "id": "AUD-0208",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0005",
+    "metadata": {
+      "name": "Unusual Transaction Time"
+    },
+    "timestamp": "2026-08-24T15:28:48.000Z"
+  },
+  {
+    "id": "AUD-0207",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0004",
+    "metadata": {
+      "name": "New Location"
+    },
+    "timestamp": "2026-08-24T14:10:42.000Z"
+  },
+  {
+    "id": "AUD-0205",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0002",
+    "metadata": {
+      "name": "High Transaction Velocity"
+    },
+    "timestamp": "2026-08-24T10:24:48.000Z"
+  },
+  {
+    "id": "AUD-0206",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0003",
+    "metadata": {
+      "name": "New Device"
+    },
+    "timestamp": "2026-08-24T08:05:09.000Z"
+  },
+  {
+    "id": "AUD-0204",
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0001",
+    "metadata": {
+      "name": "Large Transaction"
+    },
+    "timestamp": "2026-08-24T07:13:43.000Z"
+  },
+  {
+    "id": "AUD-0210",
+    "timestamp": "2026-09-23T10:42:39.792Z",
+    "metadata": {},
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0001"
+  },
+  {
+    "id": "AUD-0211",
+    "timestamp": "2026-09-23T10:43:09.949Z",
+    "metadata": {
+      "enabled": false
+    },
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0004"
+  },
+  {
+    "id": "AUD-0212",
+    "timestamp": "2026-09-23T10:43:12.660Z",
+    "metadata": {
+      "enabled": true
+    },
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "RULE_UPDATED",
+    "resourceType": "FRAUD_RULE",
+    "resourceId": "RULE-0004"
+  },
+  {
+    "id": "AUD-0213",
+    "timestamp": "2026-09-23T10:43:26.673Z",
+    "metadata": {},
+    "userId": "USR-0001",
+    "userName": "Admin User",
+    "action": "LOGOUT",
+    "resourceType": "USER",
+    "resourceId": "USR-0001"
+  },
+  {
+    "id": "AUD-0214",
+    "timestamp": "2026-09-23T10:43:36.788Z",
+    "metadata": {},
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0007"
+  },
+  {
+    "id": "AUD-0215",
+    "timestamp": "2026-09-23T10:44:25.417Z",
+    "metadata": {
+      "amount": 100000,
+      "riskLevel": "HIGH",
+      "status": "FLAGGED"
+    },
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "TRANSACTION_CREATED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10134"
+  },
+  {
+    "id": "AUD-0216",
+    "timestamp": "2026-09-23T10:48:32.313Z",
+    "metadata": {},
+    "userId": "USR-0007",
+    "userName": "Rahul Kapoor",
+    "action": "LOGOUT",
+    "resourceType": "USER",
+    "resourceId": "USR-0007"
+  },
+  {
+    "id": "AUD-0217",
+    "timestamp": "2026-09-23T10:48:42.427Z",
+    "metadata": {},
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "LOGIN",
+    "resourceType": "USER",
+    "resourceId": "USR-0002"
+  },
+  {
+    "id": "AUD-0218",
+    "timestamp": "2026-09-23T10:49:16.219Z",
+    "metadata": {
+      "alertId": "ALT-0003"
+    },
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "TRANSACTION_APPROVED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10065"
+  },
+  {
+    "id": "AUD-0219",
+    "timestamp": "2026-09-23T10:49:49.492Z",
+    "metadata": {
+      "alertId": "ALT-0006"
+    },
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "TRANSACTION_BLOCKED",
+    "resourceType": "TRANSACTION",
+    "resourceId": "TXN-10134"
+  },
+  {
+    "id": "AUD-0220",
+    "timestamp": "2026-09-23T10:49:56.567Z",
+    "metadata": {},
+    "userId": "USR-0002",
+    "userName": "Ananya Patel",
+    "action": "LOGOUT",
+    "resourceType": "USER",
+    "resourceId": "USR-0002"
+  },
+  {
+    "id": "AUD-0221",
+    "timestamp": "2026-09-23T11:03:31.966Z",
+    "metadata": {},
+    "userId": "USR-0027",
+    "userName": "dev",
+    "action": "USER_REGISTERED",
+    "resourceType": "USER",
+    "resourceId": "USR-0027"
+  }
+]

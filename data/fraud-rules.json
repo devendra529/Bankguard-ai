@@ -1,0 +1,74 @@
+[
+  {
+    "id": "RULE-0001",
+    "key": "LARGE_TRANSACTION",
+    "name": "Large Transaction",
+    "description": "Flags transfers above a fixed rupee amount.",
+    "threshold": 50000,
+    "weight": 0.3,
+    "severity": "HIGH",
+    "enabled": true,
+    "createdAt": "2025-09-23T18:36:20.000Z",
+    "updatedAt": "2026-08-24T07:13:43.000Z"
+  },
+  {
+    "id": "RULE-0002",
+    "key": "HIGH_VELOCITY",
+    "name": "High Transaction Velocity",
+    "description": "Flags accounts sending several transfers in a short window.",
+    "threshold": 3,
+    "weight": 0.2,
+    "severity": "MEDIUM",
+    "enabled": true,
+    "createdAt": "2025-09-23T15:16:22.000Z",
+    "updatedAt": "2026-08-24T10:24:48.000Z"
+  },
+  {
+    "id": "RULE-0003",
+    "key": "NEW_DEVICE",
+    "name": "New Device",
+    "description": "Flags a transfer made from a device not seen on this account before.",
+    "threshold": 1,
+    "weight": 0.2,
+    "severity": "MEDIUM",
+    "enabled": true,
+    "createdAt": "2025-09-23T13:37:20.000Z",
+    "updatedAt": "2026-08-24T08:05:09.000Z"
+  },
+  {
+    "id": "RULE-0004",
+    "key": "NEW_LOCATION",
+    "name": "New Location",
+    "description": "Flags a transfer made from a city not seen on this account before.",
+    "threshold": 1,
+    "weight": 0.15,
+    "severity": "MEDIUM",
+    "enabled": true,
+    "createdAt": "2025-09-23T20:14:12.000Z",
+    "updatedAt": "2026-09-23T10:43:12.655Z"
+  },
+  {
+    "id": "RULE-0005",
+    "key": "UNUSUAL_TIME",
+    "name": "Unusual Transaction Time",
+    "description": "Flags transfers initiated late at night (00:00-05:00).",
+    "threshold": 1,
+    "weight": 0.1,
+    "severity": "LOW",
+    "enabled": true,
+    "createdAt": "2025-09-23T15:38:48.000Z",
+    "updatedAt": "2026-08-24T15:28:48.000Z"
+  },
+  {
+    "id": "RULE-0006",
+    "key": "HIGH_AMOUNT_RATIO",
+    "name": "High Amount-to-Balance Ratio",
+    "description": "Flags a transfer that moves a large share of the available balance.",
+    "threshold": 0.5,
+    "weight": 0.25,
+    "severity": "HIGH",
+    "enabled": true,
+    "createdAt": "2025-09-23T09:47:47.000Z",
+    "updatedAt": "2026-08-24T21:01:23.000Z"
+  }
+]
